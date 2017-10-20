@@ -1,0 +1,20 @@
+{
+  "name": "ts-book",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "homepage": "https://github.com/jrodrech/ts-book",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.8.0"
+  }
+}
